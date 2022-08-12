@@ -1,15 +1,3 @@
-/*
- ============================================================================
- Name        : FlyingShark.c
- Author      : Severin Julien
- Version     : Beta
- Copyright   : School project
- Description : Avion du joueur
- Note		 : La taille du menu doit �tre d�fini par une constante, afin que
- 	 	 	   le tableau de structure ait une taille ad�quate
- ============================================================================
- */
-
 #ifndef APP_STATE_MENU_H
 #define APP_STATE_MENU_H
 

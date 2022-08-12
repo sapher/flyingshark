@@ -1,13 +1,3 @@
-/*
- ============================================================================
- Name        : FlyingShark.c
- Author      : Severin Julien
- Version     : Beta
- Copyright   : School project
- Description : Affiche le score des joueurs
- ============================================================================
- */
-
 #ifndef APP_STATE_SCORE_H
 #define APP_STATE_SCORE_H
 

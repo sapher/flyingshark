@@ -1,13 +1,3 @@
-/*
- ============================================================================
- Name        : fighter.c
- Author      : Arnaud Boyer
- Version     : Beta
- Copyright   : Work project
- Note:		 :
- ============================================================================
- */
-
 #ifndef FIGHTER_H
 #define FIGHTER_H
 

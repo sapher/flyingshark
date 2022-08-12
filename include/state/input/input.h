@@ -1,15 +1,3 @@
-/*
- ============================================================================
- Name        : FlyingShark.c
- Author      : Arnaud Boyer
- Version     : Beta
- Copyright   : School project
- Description : Permet � l'utilisateur d'entr�e un nom pour son joueur
- Enchancement: On pourrait am�lior�r le code en ajoutant un pointeur dans le
- 	 	 	   champs qui permettrait de naviguer dans le champs.
- ============================================================================
- */
-
 #ifndef APP_STATE_INPUT_H
 #define APP_STATE_INPUT_H
 

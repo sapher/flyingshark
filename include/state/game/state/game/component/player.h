@@ -1,16 +1,3 @@
-/*
- ============================================================================
- Name        : FlyingShark.c
- Author      : Arnaud Boyer
- Version     : Beta
- Copyright   : School project
- Description : G�re tout ce qui est rattach� � l'avion du joueur
- Note:		 : -Cr�� une surface shadow en rechargeant la m�me image que pour
- 	 	 	   la surface aircraft est la solution la plus simple pour dupli-
- 	 	 	   quer une surface
- ============================================================================
- */
-
 #ifndef PLAYER_H
 #define PLAYER_H
 

@@ -1,13 +1,3 @@
-/*
- ============================================================================
- Name        : intro.h
- Author      : Arnaud Boyer
- Version     : Beta
- Copyright   : School project
- Description : Affiche une introduction lorsque le jeu d�marre
- ============================================================================
- */
-
 #ifndef APP_STATE_INTRO_H
 #define APP_STATE_INTRO_H
 
